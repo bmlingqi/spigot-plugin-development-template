@@ -1,0 +1,8 @@
+# @FileName: plugin
+# @Description:  
+# @Author: Bemil_Lingqi <bemiou_lingqi@163.com>
+# @Date 2022/11/5
+version: '1.0.0'
+name: "SpigotPluginTemplate"
+author: "Lingqi"
+main: com.bemil.spigot.plugin.template.PluginMain
